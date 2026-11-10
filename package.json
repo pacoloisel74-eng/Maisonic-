@@ -1,0 +1,13 @@
+{
+  "name": "maisonic",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Maisonic : la séance du jour, sans salle, un peu plus dure chaque semaine.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
